@@ -56,8 +56,10 @@
 
 1. インストーラのダウンロード
     - Webex Meetingsの画面上の右側に「Cisco Webex Meetingsアプリを今すぐインストール」の画面が出ている場合はその下の「ダウンロード」をクリック。
-    - そうでない場合は[Cisco Webexダウンロード](https://www.webex.com/ja/downloads.html)にアクセスして「Cisco Webex Meetings」をダウンロード
     ![Webex Meetingsからのダウンロード](imgs/webex_meeting_dl_1.png)
+
+- そうでない場合は[Cisco Webexダウンロード](https://www.webex.com/ja/downloads.html)にアクセスして「Cisco Webex Meetings」をダウンロード
+    ![PC/Mac用アプリのダウンロード](imgs/webex_app_dl_desktop.png)
 1. 手元のPC上でインストーラを開いて，指示に従ってインストール。
 
 

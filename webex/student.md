@@ -12,10 +12,26 @@
 
 - [参考資料](#references)
 
-<h2 id="prepare_once">1度だけ行う準備</h2>
+<h2 id="prepare_once">STEP 1. 1度だけ行う準備</h2>
 
-<h3 id="app_install">STEP 1-2. アプリのインストール</h3>
+<h3 id="app_install">STEP 1-1. アプリのインストール</h3>
 
+まず，ビデオ会議用のアプリケーションである「Cisco Webex Meetings」をインストールします。
+
+通常は，講義参加用のURLをブラウザで開くと，使っているデバイスに合わせてアプリがダウンロードされます。
+しかし，スムーズに講義に参加するためには，予めアプリをインストールしておいた方が良いでしょう。
+
+- PC/Macの場合
+    - [Cisco Webexダウンロード](https://www.webex.com/ja/downloads.html)にアクセスして「Cisco Webex Meetings」をダウンロード
+    ![PC/Mac用アプリのダウンロード](imgs/webex_app_dl_desktop.png)
+
+- iOSの場合
+    - App Storeで「Cisco Webex Meetings」を検索してインストール
+    - または下のQRコードをデバイスでスキャンします。
+    ![iOSアプリへのQRコード](imgs/webex_app_QR_ios.jpg)
+
+- Androidの場合
+    - Google Play StoreまたはAmazon Appstore for Android（機種によって異なります）で「Cisco Webex Meetings」を検索してインストール
 
 
 <h2 id="references">参考資料</h2>
