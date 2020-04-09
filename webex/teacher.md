@@ -17,6 +17,15 @@
     1. [STEP 3-2. 講義を実施する前に](#before_starting_class)
     1. [STEP 3-3. 講義中にできること](#during_class)
 
+## 参考資料
+
+- [Webex Meetingsの会議マニュアル（動画）](https://www.cisco.com/c/m/ja_jp/solutions/webex/how-to-use.html)
+  会議の予約，参加，画面共有，録画・保存など，基本的な使い方に関する説明ビデオ集です。
+- [WebExミーティングの進行管理（PDF）](https://www.cisco.com/c/dam/global/ja_jp/td/docs/wc/webconferencing/webexmeetingcenterwbs30/ug/004/b-manage-meetings-ja-jp.pdf)
+  ホワイトボードや投票，メモ（議事録）など講義に便利な機能についての説明があります。
+- [テレワークを快適にするCisco Webex TIPS集（PDF）](https://www.cisco.com/c/dam/m/ja_jp/solutions/webex/pdf/cisco-webex-tips-japanese.pdf)
+  講義の運営，参加する場合のちょっとした心がけ集です。
+
 <h2 id="prepare_once">STEP 1. 1度だけ行えば良い準備</h2>
 
 <h3 id="make_new_account">STEP 1-1. アカウントの作成</h3>
@@ -157,3 +166,6 @@ Webex Meetingsのホーム画面（Webサイト）もしくはアプリを起動
     - 「退出させる」：参加者をミーティングから強制退出させます
     - 「ロビーに移動」：参加者をロビーに移動します。
     ロビーに移動した参加者は主催者が許可するまでミーティングに参加できません。
+
+<h3 id="terminating_class">STEP 3-4. 講義終了時の注意</h3>
+
