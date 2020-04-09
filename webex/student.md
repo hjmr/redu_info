@@ -2,10 +2,27 @@
 
 ## 全体の流れ
 
-1. 1度だけ行う準備
-    1. アプリのインストール
+1. [STEP 1. 1度だけ行う準備](#prepare_once)
+    1. [STEP 1-1. アプリのインストール](#app_install)
 
 1. 講義の前に行う準備
    1. 会議室への入室
 
 1. 受講
+
+- [参考資料](#references)
+
+<h2 id="prepare_once">1度だけ行う準備</h2>
+
+<h3 id="app_install">STEP 1-2. アプリのインストール</h3>
+
+
+
+<h2 id="references">参考資料</h2>
+
+- [Webex Meetingsの会議マニュアル（動画）](https://www.cisco.com/c/m/ja_jp/solutions/webex/how-to-use.html)  
+会議の予約，参加，画面共有，録画・保存など，基本的な使い方に関する説明ビデオ集です。
+- [WebExミーティングの進行管理（PDF）](https://www.cisco.com/c/dam/global/ja_jp/td/docs/wc/webconferencing/webexmeetingcenterwbs30/ug/004/b-manage-meetings-ja-jp.pdf)  
+  ホワイトボードや投票，メモ（議事録）など講義に便利な機能についての説明があります。
+- [テレワークを快適にするCisco Webex TIPS集（PDF）](https://www.cisco.com/c/dam/m/ja_jp/solutions/webex/pdf/cisco-webex-tips-japanese.pdf)  
+  講義の運営，参加する場合のちょっとした心がけ集です。
